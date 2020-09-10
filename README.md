@@ -11,7 +11,7 @@ Changes:
 - adding features
 - revising compound words annotations (UPOS and deprel)
 - revising word segmentation for words ending with -nya
-- revising annotations of "SpaceAfter=No" for multiwords token, especially for words ending with '-nya'/particles of 'lah'/'kah'.
+- revising annotations of multiwords token, especially for words ending with '-nya'/particles of 'lah'/'kah'.
 <br>
 Contributors: Ika Alfina, Arawinda Dinakaramani, Jessica N. Arwidarasti, M. Yudistira Hanifmuti, and Yogi L. Sulestio
 
@@ -22,7 +22,7 @@ Contributors: Ika Alfina, Arawinda Dinakaramani, Jessica N. Arwidarasti, M. Yudi
 
 <br>
 Contributors: Ika Alfina and Arawinda Dinakaramani
-
+<br>
 The details of why and how we revised the treebank was explained in our paper below.
 
 <a href="https://www.researchgate.net/publication/334470091_A_Gold_Standard_Dependency_Treebank_for_Indonesian">Ika Alfina, Arawinda Dinakaramani, Mohamad Ivan Fanany, and Heru Suhartanto. "A Gold Standard Dependency Treebank for Indonesian". In The 33rd PACLIC (Pacific Asia Conference on Language, Information and Computation) 2019.</a> (accepted) 
