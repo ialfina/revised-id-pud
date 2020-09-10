@@ -1,7 +1,7 @@
 # The Revised UD Indonesian PUD Treebank
 <b>(Korpus Gold Standard Dependency Treebank dalam Bahasa Indonesia)</b>
 
-We proposed a revision to the <a href="https://universaldependencies.org/treebanks/id_pud/index.html">UD Indonesian PUD Treebank </a> provided by Universal Dependencies (UD) so that it conforms to the Indonesian grammar.
+We proposed revisions to the <a href="https://universaldependencies.org/treebanks/id_pud/index.html">UD Indonesian PUD Treebank </a> provided by Universal Dependencies (UD) so that it conforms to Indonesian grammar.
 
 <b>Revision 2.0</b>
 <br>Last update: September 10, 2020
@@ -10,10 +10,10 @@ Changes:
 - adding lemma
 - adding features
 - revising compound words annotations (UPOS and deprel)
-- revising word segmentation for words ending with -nya
-- revising annotations of multiwords token, especially for words ending with '-nya'/particles of 'lah'/'kah'.
+- revising word segmentation for words ending with clitic of '-nya'
+- revising annotations of multiwords token, especially for words ending with clitic of '-nya' or particles of 'lah'/'kah'.
 <br>
-Contributors: Ika Alfina, Arawinda Dinakaramani, Jessica N. Arwidarasti, M. Yudistira Hanifmuti, and Yogi L. Sulestio
+Contributors: Ika Alfina, Arawinda Dinakaramani, Jessica N. Arwidarasti, <a href="https://github.com/shygnome">M. Yudistira Hanifmuti</a>, and Yogi L. Sulestio
 
 <br>
 <br>
@@ -25,6 +25,6 @@ Contributors: Ika Alfina and Arawinda Dinakaramani
 <br>
 The details of why and how we revised the treebank was explained in our paper below.
 
-<a href="https://www.researchgate.net/publication/334470091_A_Gold_Standard_Dependency_Treebank_for_Indonesian">Ika Alfina, Arawinda Dinakaramani, Mohamad Ivan Fanany, and Heru Suhartanto. "A Gold Standard Dependency Treebank for Indonesian". In The 33rd PACLIC (Pacific Asia Conference on Language, Information and Computation) 2019.</a> (accepted) 
+<a href="https://www.researchgate.net/publication/334470091_A_Gold_Standard_Dependency_Treebank_for_Indonesian">Ika Alfina, Arawinda Dinakaramani, Mohamad Ivan Fanany, and Heru Suhartanto. "A Gold Standard Dependency Treebank for Indonesian". In The 33rd PACLIC (Pacific Asia Conference on Language, Information and Computation) 2019.</a>
 
 If you use our revised treebank, please cite that publication.
