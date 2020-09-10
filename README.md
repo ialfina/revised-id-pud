@@ -11,7 +11,7 @@ Changes:
 - adding features
 - revising compound words annotations (UPOS and deprel)
 - revising word segmentation for words ending with -nya
-- revising annotation of "SpaceAfter=No"
+- revising annotations of "SpaceAfter=No", especially for words ending with -nya
 <br>
 Contributors: Ika Alfina, Arawinda Dinakaramani, Jessica N. Arwidarasti, M. Yudistira Hanifmuti, and Yogi L. Sulestio
 
@@ -21,7 +21,7 @@ Contributors: Ika Alfina, Arawinda Dinakaramani, Jessica N. Arwidarasti, M. Yudi
 <br>Last update: August, 2019
 
 <br>
-Contributors: Ika Alfina and Arawinda Dinakarami
+Contributors: Ika Alfina and Arawinda Dinakaramani
 
 The details of why and how we revised the treebank was explained in our paper below.
 
