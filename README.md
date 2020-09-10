@@ -11,7 +11,7 @@ Changes:
 - adding features
 - revising compound words annotations (UPOS and deprel)
 - revising word segmentation for words ending with -nya
-- revising annotations of "SpaceAfter=No", especially for words ending with -nya
+- revising annotations of "SpaceAfter=No" for multiwords token, especially for words ending with '-nya'/particles of 'lah'/'kah'.
 <br>
 Contributors: Ika Alfina, Arawinda Dinakaramani, Jessica N. Arwidarasti, M. Yudistira Hanifmuti, and Yogi L. Sulestio
 
