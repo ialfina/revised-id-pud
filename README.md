@@ -13,7 +13,7 @@ Changes:
 - revising word segmentation for words ending with clitic of '-nya'
 - revising annotations of multiwords token, especially for words ending with clitic of '-nya' or particles of 'lah'/'kah'.
 <br>
-Contributors: Ika Alfina, Arawinda Dinakaramani, Jessica N. Arwidarasti, <a href="https://github.com/shygnome">M. Yudistira Hanifmuti</a>, and Yogi L. Sulestio
+Contributors: Ika Alfina, Arawinda Dinakaramani, Dan Zeman, <a href="https://github.com/shygnome">M. Yudistira Hanifmuti</a>, Jessica N. Arwidarasti, and Yogi L. Sulestio
 
 <br>
 <br>
