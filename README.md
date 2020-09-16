@@ -15,8 +15,8 @@ Last update: September 15, 2020
 
 ### Contributors: 
 * Ika Alfina
-* Arawinda Dinakaramani
 * Daniel Zeman
+* Arawinda Dinakaramani
 * M. Yudistira Hanifmuti
 * Jessica N. Arwidarasti
 * Yogi L. Sulestio
