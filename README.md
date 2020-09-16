@@ -17,12 +17,12 @@ Last update: September 15, 2020
 * Ika Alfina
 * Daniel Zeman
 * Arawinda Dinakaramani
-* M. Yudistira Hanifmuti
-* Jessica N. Arwidarasti
-* Yogi L. Sulestio
+* Muhammad Yudistira Hanifmuti
+* Jessica Naraiswari Arwidrasti
+* Yogi Lesmana Sulestio
 
 ### Annotation Guidelines
-We have written a short documentation of this second revision on [UD website](https://universaldependencies.org/id/index.html).
+We have written a short annotation guidelines for this second revision on [UD website](https://universaldependencies.org/id/index.html).
 
 ## Revision 1.0
 Last update: August, 2019
@@ -40,6 +40,6 @@ Last update: August, 2019
 ### Reference
 The details of why and how we revised the treebank was explained in our paper below.
 
-* Ika Alfina, Arawinda Dinakaramani, Mohamad Ivan Fanany, and Heru Suhartanto. "A Gold Standard Dependency Treebank for Indonesian". In The 33rd PACLIC (Pacific Asia Conference on Language, Information and Computation) 2019. (_The paper can be downloaded [here](https://waseda.repo.nii.ac.jp/?action=repository_action_common_download&item_id=48059&item_no=1&attribute_id=101&file_no=1)_
+* Ika Alfina, Arawinda Dinakaramani, Mohamad Ivan Fanany, and Heru Suhartanto. "A Gold Standard Dependency Treebank for Indonesian". In The 33rd PACLIC (Pacific Asia Conference on Language, Information and Computation) 2019. (_The paper can be downloaded [here](https://waseda.repo.nii.ac.jp/?action=repository_action_common_download&item_id=48059&item_no=1&attribute_id=101&file_no=1)_)
 
 If you use our revised treebank, please cite that publication.
