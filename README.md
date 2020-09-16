@@ -1,7 +1,7 @@
 # The Revised UD Indonesian PUD Treebank
 **(Korpus Gold Standard Dependency Treebank dalam Bahasa Indonesia)**
 
-We proposed revisions to [UD Indonesian PUD Treebank](https://universaldependencies.org/treebanks/id_pud/index.html) provided by Universal Dependencies (UD) so that it conforms to Indonesian grammar.
+We proposed revisions to [UD Indonesian PUD Treebank](https://github.com/UniversalDependencies/UD_Indonesian-PUD) provided by Universal Dependencies (UD) so that it conforms to Indonesian grammar.
 
 ## Revision 2.0
 Last update: September 15, 2020
