@@ -15,7 +15,7 @@ Last update: September 15, 2020
 
 ### Contributors: 
 * Annotation guidelines: Ika Alfina, Daniel Zeman, Arawinda Dinakaramani
-* Annotators: Ika Alfina, Arawinda Dinakaramani, Muhammad Yudistira Hanifmuti, Jessica Naraiswari Arwidrasti, Yogi Lesmana Sulestio
+* Annotators: Ika Alfina, Arawinda Dinakaramani, Muhammad Yudistira Hanifmuti, Jessica Naraiswari Arwidarasti, Yogi Lesmana Sulestio
 
 ### Annotation Guidelines
 We have written a short annotation guidelines for this second revision on [UD website](https://universaldependencies.org/id/index.html).
