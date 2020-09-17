@@ -14,12 +14,8 @@ Last update: September 15, 2020
 * revising annotations of multiwords token, especially for words ending with clitic of '-nya' or particles of 'lah'/'kah'.
 
 ### Contributors: 
-* Ika Alfina
-* Daniel Zeman
-* Arawinda Dinakaramani
-* Muhammad Yudistira Hanifmuti
-* Jessica Naraiswari Arwidrasti
-* Yogi Lesmana Sulestio
+* Annotation guidelines: Ika Alfina, Daniel Zeman, Arawinda Dinakaramani
+* Annotators: Ika Alfina, Arawinda Dinakaramani, Muhammad Yudistira Hanifmuti, Jessica Naraiswari Arwidrasti, Yogi Lesmana Sulestio
 
 ### Annotation Guidelines
 We have written a short annotation guidelines for this second revision on [UD website](https://universaldependencies.org/id/index.html).
