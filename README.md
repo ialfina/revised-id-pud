@@ -6,12 +6,15 @@ We proposed revisions to [UD Indonesian PUD Treebank](https://github.com/Univers
 ## Revision 2.0
 Last update: September 20, 2020
 
-### Changes:
+### Change log:
 * adding lemma
 * adding features
 * revising compound words annotations (UPOS and deprel)
-* revising word segmentation for words ending with clitic of '-nya'
-* revising annotations of multiwords token, especially for words ending with clitic of '-nya' or particles of 'lah'/'kah'.
+* revising word segmentation for words ended with clitic _-nya_
+* revising annotations of multiwords token, especially for words ended with clitic  _-nya_ or particles  _lah/kah/pun
+* rename nmod:npmod to nmod
+* rename obl:mod to obl
+* introducing det:poss
 
 ### Contributors: 
 * Designing Indonesian annotation guidelines: Ika Alfina, Daniel Zeman, and Arawinda Dinakaramani
@@ -23,7 +26,7 @@ We have written a short annotation guidelines for this second revision on [UD we
 ## Revision 1.0
 Last update: August, 2019
 
-### Changes:
+### Change log:
 * revising tokenization (major revision, especially word reduplicated words)
 * revising UPOS (major revision)
 * propose changes to language specific dependency relation for Indonesian
