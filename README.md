@@ -4,7 +4,7 @@
 We proposed revisions to [UD Indonesian PUD Treebank](https://github.com/UniversalDependencies/UD_Indonesian-PUD) provided by Universal Dependencies (UD) so that it conforms to Indonesian grammar.
 
 ## Revision 2.0
-Last update: September 15, 2020
+Last update: September 20, 2020
 
 ### Changes:
 * adding lemma
@@ -14,12 +14,8 @@ Last update: September 15, 2020
 * revising annotations of multiwords token, especially for words ending with clitic of '-nya' or particles of 'lah'/'kah'.
 
 ### Contributors: 
-* Ika Alfina
-* Daniel Zeman
-* Arawinda Dinakaramani
-* Muhammad Yudistira Hanifmuti
-* Jessica Naraiswari Arwidrasti
-* Yogi Lesmana Sulestio
+* Designing Indonesian annotation guidelines: Ika Alfina, Daniel Zeman, and Arawinda Dinakaramani
+* Annotators: Ika Alfina, Arawinda Dinakaramani, Muhammad Yudistira Hanifmuti, Jessica Naraiswari Arwidrasti, Yogi Lesmana Sulestio
 
 ### Annotation Guidelines
 We have written a short annotation guidelines for this second revision on [UD website](https://universaldependencies.org/id/index.html).
