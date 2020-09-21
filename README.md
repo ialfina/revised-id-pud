@@ -36,6 +36,6 @@ Last update: August, 2019
 ### Reference
 The details of why and how we revised the treebank was explained in our paper below.
 
-* Ika Alfina, Arawinda Dinakaramani, Mohamad Ivan Fanany, and Heru Suhartanto. ["**A Gold Standard Dependency Treebank for Indonesian**"]((https://waseda.repo.nii.ac.jp/?action=repository_action_common_download&item_id=48059&item_no=1&attribute_id=101&file_no=1)). In The 33rd PACLIC (Pacific Asia Conference on Language, Information and Computation) 2019. 
+* Ika Alfina, Arawinda Dinakaramani, Mohamad Ivan Fanany, and Heru Suhartanto. ["**A Gold Standard Dependency Treebank for Indonesian**"](https://waseda.repo.nii.ac.jp/?action=repository_action_common_download&item_id=48059&item_no=1&attribute_id=101&file_no=1). In The 33rd PACLIC (Pacific Asia Conference on Language, Information and Computation) 2019. 
 
 If you use our revised treebank, please cite that publication.
