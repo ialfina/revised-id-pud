@@ -9,12 +9,12 @@ Last update: September 20, 2020
 ### Change log:
 * adding lemma
 * adding features
-* revising compound words annotations (UPOS and deprel)
+* revising compound word annotations (UPOS and deprel)
 * revising word segmentation for words ended with clitic _-nya_
-* revising annotations of multiwords token, especially for words ended with clitic  _-nya_ or particles  _lah/kah/pun
+* revising annotations of multiwords token, especially for words ended with clitic  _-nya_ or particles  _lah/kah/pun_
 * rename nmod:npmod to nmod
 * rename obl:mod to obl
-* introducing det:poss
+* rename some nmod:poss to det:poss for words with UPOS DET.
 
 ### Contributors: 
 * Designing Indonesian annotation guidelines: Ika Alfina, Daniel Zeman, and Arawinda Dinakaramani
