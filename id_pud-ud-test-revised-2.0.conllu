@@ -5753,7 +5753,7 @@
 11	ini	ini	DET	_	PronType=Dem	10	det	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	3	punct	_	_
 13	daftar	daftar	NOUN	_	Number=Sing	16	nsubj	_	_
-14	saya	saya	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nmod:poss	_	_
+14	saya	saya	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
 15	sudah	sudah	AUX	_	_	16	aux	_	_
 16	berkembang	kembang	VERB	_	Voice=Act	0	root	_	_
 17	menjadi	jadi	VERB	_	Voice=Act	19	xcomp	_	_
@@ -7971,7 +7971,7 @@
 6	dan	dan	CCONJ	_	_	10	cc	_	_
 7	kemudian	kemudian	ADV	_	_	10	advmod	_	_
 8	telepon	telepon	NOUN	_	Number=Sing	10	nsubj	_	SpaceAfter=No
-9	ku	ku	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
+9	ku	ku	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 10	mulai	mulai	VERB	_	Voice=Act	3	conj	_	_
 11	menyala	nyala	VERB	_	Voice=Act	10	xcomp	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	_
@@ -8006,7 +8006,7 @@
 4	satu	satu	NUM	_	NumType=Card	5	nummod	_	_
 5	teman	teman	NOUN	_	Number=Sing	0	root	_	_
 6	baik	baik	ADJ	_	_	5	amod	_	SpaceAfter=No
-7	ku	ku	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	SpaceAfter=No
+7	ku	ku	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
 9	jadi	jadi	ADV	_	_	11	advmod	_	_
 10	sangat	sangat	ADV	_	_	11	advmod	_	_
@@ -8357,7 +8357,7 @@
 3	muncul	muncul	VERB	_	Voice=Act	0	root	_	_
 4	di	di	ADP	_	_	5	case	_	_
 5	lumbung	lumbung	NOUN	_	Number=Sing	3	obl	_	SpaceAfter=No
-6	ku	ku	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+6	ku	ku	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 7	dan	dan	CCONJ	_	_	9	cc	_	_
 8	saya	saya	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	berkelakar	kelakar	VERB	_	Voice=Act	3	conj	_	_
