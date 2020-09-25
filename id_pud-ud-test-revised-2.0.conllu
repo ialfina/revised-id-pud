@@ -12527,7 +12527,7 @@
 11	dan	dan	CCONJ	_	_	16	cc	_	_
 12	perintah	perintah	NOUN	_	Number=Sing	16	nsubj	_	_
 13	langsung	langsung	ADJ	_	_	12	amod	_	SpaceAfter=No
-14	nya	nya	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	_
+14	nya	nya	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	_
 15	agak	agak	ADV	_	_	16	advmod	_	_
 16	samar	samar	ADJ	_	_	3	conj	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	_
@@ -12539,12 +12539,12 @@
 23	sebenarnya	benar	ADV	_	_	24	advmod	_	_
 24-25	maksudnya	_	_	_	_	_	_	_	_
 24	maksud	maksud	NOUN	_	Number=Sing	22	nmod	_	_
-25	nya	nya	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	nmod:poss	_	_
+25	nya	nya	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	nmod:poss	_	_
 26	daripada	daripada	SCONJ	_	_	27	mark	_	_
 27	mengeluarkan	keluar	VERB	_	Voice=Act	22	acl	_	_
 28-29	legislasinya	_	_	_	_	_	_	_	SpaceAfter=No
 28	legislasi	legislasi	NOUN	_	Number=Sing	27	obj	_	_
-29	nya	nya	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	28	nmod:poss	_	_
+29	nya	nya	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	28	nmod:poss	_	_
 30	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = w01063048
@@ -22309,7 +22309,7 @@
 # text_en = To get away from it all, the Remis resided in Switzerland for most of summer 1947.
 1	Untuk	untuk	SCONJ	_	_	2	mark	_	_
 2	melarikan	lari	VERB	_	Voice=Act	10	advcl	_	_
-3	diri	diri	PRON	_	_	2	compound	_	_
+3	diri	diri	PRON	_	PronType=Prs|Reflex=Yes	2	compound	_	_
 4	dari	dari	ADP	_	_	6	case	_	_
 5	semua	semua	DET	_	PronType=Tot	6	det	_	_
 6	itu	itu	PRON	_	PronType=Dem	2	obl	_	SpaceAfter=No
@@ -22874,7 +22874,7 @@
 # text_en = Napoleon was confident that the clear success of Austerlitz could lead to a general peace treaty, but his hopes were soon dashed: the new British Prime Minister Lord Grenville refused any agreement, and so did Tsar Alexander.
 1	Napoleon	Napoleon	PROPN	_	_	2	nsubj	_	_
 2	percaya	percaya	VERB	_	Voice=Act	0	root	_	_
-3	diri	diri	PRON	_	_	2	compound	_	_
+3	diri	diri	PRON	_	PronType=Prs|Reflex=Yes	2	compound	_	_
 4	bahwa	bahwa	SCONJ	_	_	9	mark	_	_
 5	keberhasilan	hasil	NOUN	_	Number=Sing	9	nsubj	_	_
 6	jelas	jelas	ADJ	_	_	5	amod	_	_
