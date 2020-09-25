@@ -965,7 +965,7 @@
 7	pertanyaan	tanya	NOUN	_	Number=Sing	6	obj	_	_
 8	tentang	tentang	ADP	_	_	9	case	_	_
 9-10	perlunya	_	_	_	_	_	_	_	_
-9	perlu	perlu	NOUN	_	Number=Sing	7	nmod	_	_
+9	perlu	perlu	VERB	_	Voice=Act	7	nmod	_	_
 10	nya	nya	DET	_	_	9	det	_	_
 11	kursus	kursus	NOUN	_	Number=Sing	10	nmod	_	_
 12	ini	ini	DET	_	PronType=Dem	11	det	_	_
@@ -1801,7 +1801,7 @@
 19	pada	pada	ADP	_	_	20	case	_	_
 20	saat	saat	NOUN	_	Number=Sing	15	obl	_	_
 21-22	terjadinya	_	_	_	_	_	_	_	_
-21	terjadi	jadi	NOUN	_	Number=Sing	20	nmod	_	_
+21	terjadi	jadi	VERB	_	Voice=Pass	20	nmod	_	_
 22	nya	nya	DET	_	_	21	det	_	_
 23	insiden	insiden	NOUN	_	Number=Sing	21	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	13	punct	_	_
@@ -2730,7 +2730,7 @@
 14	kira-kira	kira	ADV	_	_	15	advmod	_	_
 15	sama	sama	ADJ	_	_	10	parataxis	_	_
 16-17	besarnya	_	_	_	_	_	_	_	_
-16	besar	besar	NOUN	_	Number=Sing	15	nsubj	_	_
+16	besar	besar	ADJ	_	_	15	nsubj	_	_
 17	nya	nya	DET	_	_	16	det	_	_
 18	untuk	untuk	ADP	_	_	19	case	_	_
 19	2015	2015	NUM	_	NumType=Card	15	obl	_	SpaceAfter=No
@@ -3769,7 +3769,7 @@
 # text_en = As the hysteria of the 2016 Presidential election intensifies, a more troubling threat than bullshit preoccupies Karel.
 1	Seiring	iring	ADP	_	_	2	case	_	_
 2-3	menguatnya	_	_	_	_	_	_	_	_
-2	menguat	kuat	NOUN	_	Number=Sing	15	obl	_	_
+2	menguat	kuat	VERB	_	Voice=Act	15	obl	_	_
 3	nya	nya	DET	_	_	2	det	_	_
 4	histeria	histeria	NOUN	_	Number=Sing	2	nmod	_	_
 5	pemilihan	pilih	NOUN	_	Number=Sing	4	nmod	_	_
@@ -6391,7 +6391,7 @@
 14	dingin	dingin	ADJ	_	_	13	amod	_	_
 15	seiring	iring	ADP	_	_	16	case	_	_
 16-17	meningkatnya	_	_	_	_	_	_	_	_
-16	meningkat	tingkat	NOUN	_	Number=Sing	11	obl	_	_
+16	meningkat	tingkat	VERB	_	Voice=Act	11	obl	_	_
 17	nya	nya	DET	_	_	16	det	_	_
 18	penggunaan	guna	NOUN	_	Number=Sing	16	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	4	punct	_	_
@@ -7291,7 +7291,7 @@
 12	nya	nya	DET	_	_	11	det	_	_
 13	dengan	dengan	ADP	_	_	14	case	_	_
 14-15	berkembangnya	_	_	_	_	_	_	_	_
-14	berkembang	kembang	NOUN	_	Number=Sing	10	obl	_	_
+14	berkembang	kembang	VERB	_	Voice=Act	10	obl	_	_
 15	nya	nya	DET	_	_	14	det	_	_
 16	obsesi	obsesi	NOUN	_	Number=Sing	14	nmod	_	_
 17	kita	kita	PRON	_	Clusivity=In|Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
@@ -10111,7 +10111,7 @@
 1	Namun	namun	CCONJ	_	_	2	cc	_	_
 2	mengakibatkan	akibat	VERB	_	Voice=Act	0	root	_	_
 3-4	ditinggalkannya	_	_	_	_	_	_	_	_
-3	ditinggalkan	tinggal	VERB	_	Voice=Pass	2	dep	_	_
+3	ditinggalkan	tinggal	VERB	_	Voice=Pass	2	obl	_	_
 4	nya	nya	DET	_	_	3	det	_	_
 5	barang-barang	barang	NOUN	_	Number=Plur	3	nmod	_	_
 6	penting	penting	ADJ	_	_	5	amod	_	_
@@ -10357,7 +10357,7 @@
 10	sudah	sudah	AUX	_	_	11	aux	_	_
 11-12	terpecahnya	_	_	_	_	_	_	_	_
 11	terpecah	pecah	VERB	_	Voice=Pass	8	ccomp	_	_
-12	nya	nya	ADV	_	_	11	advmod	_	_
+12	nya	nya	DET	_	_	11	det	_	_
 13	negara	negara	NOUN	_	Number=Sing	11	nsubj:pass	_	_
 14	ini	ini	DET	_	PronType=Dem	13	det	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	8	punct	_	_
@@ -10778,7 +10778,7 @@
 14	mengurangi	kurang	VERB	_	Voice=Act	0	root	_	_
 15	peluang	luang	NOUN	_	Number=Sing	14	obj	_	_
 16-17	terjadinya	_	_	_	_	_	_	_	_
-16	terjadi	jadi	NOUN	_	Number=Sing	15	nmod	_	_
+16	terjadi	jadi	VERB	_	Voice=Pass	15	nmod	_	_
 17	nya	nya	DET	_	_	16	det	_	_
 18	peristiwa	peristiwa	NOUN	_	Number=Sing	16	nmod	_	_
 19	ini	ini	DET	_	PronType=Dem	18	det	_	SpaceAfter=No
@@ -12889,7 +12889,7 @@
 10	ditandai	tanda	VERB	_	Voice=Pass	2	advcl	_	_
 11	dengan	dengan	ADP	_	_	12	case	_	_
 12-13	banyaknya	_	_	_	_	_	_	_	_
-12	banyak	banyak	NOUN	_	Number=Sing	10	obl	_	_
+12	banyak	banyak	ADJ	_	_	10	obl	_	_
 13	nya	nya	DET	_	_	12	det	_	_
 14	proyek	proyek	NOUN	_	Number=Sing	12	nmod	_	_
 15-16	konstruksinya	_	_	_	_	_	_	_	_
@@ -13166,7 +13166,7 @@
 1	Dua	dua	NUM	_	NumType=Card	2	nsubj	_	_
 2	mengukur	ukur	VERB	_	Voice=Act	0	root	_	_
 3-4	lamanya	_	_	_	_	_	_	_	_
-3	lama	lama	NOUN	_	Number=Sing	2	obj	_	_
+3	lama	lama	ADJ	_	_	2	obj	_	_
 4	nya	nya	DET	_	_	3	det	_	_
 5	bulan-bulan	bulan	NOUN	_	Number=Plur	4	nmod	_	_
 6	kalender	kalender	NOUN	_	Number=Sing	5	nmod	_	_
@@ -14010,7 +14010,7 @@
 14	besar	besar	ADJ	_	_	11	acl:relcl	_	_
 15	seiring	iring	ADP	_	_	16	case	_	_
 16-17	dibangunnya	_	_	_	_	_	_	_	_
-16	dibangun	bangun	NOUN	_	Number=Sing	14	obl	_	_
+16	dibangun	bangun	VERB	_	Voice=Pass	14	obl	_	_
 17	nya	nya	DET	_	_	16	det	_	_
 18	rute	rute	NOUN	_	Number=Sing	16	nmod	_	_
 19	perdagangan	dagang	NOUN	_	Number=Sing	18	nmod	_	_
@@ -14050,7 +14050,7 @@
 13	tidak	tidak	PART	_	Polarity=Neg	14	advmod	_	_
 14	sama	sama	ADJ	_	_	4	conj	_	_
 15-16	baiknya	_	_	_	_	_	_	_	_
-15	baik	baik	NOUN	_	Number=Sing	14	obl	_	_
+15	baik	baik	ADJ	_	_	14	obl	_	_
 16	nya	nya	DET	_	_	15	det	_	_
 17	untuk	untuk	ADP	_	_	18	case	_	_
 18	konflik	konflik	NOUN	_	Number=Sing	11	nmod	_	_
@@ -14643,7 +14643,7 @@
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	sebelum	belum	ADP	_	_	5	case	_	_
 5-6	pecahnya	_	_	_	_	_	_	_	_
-5	pecah	pecah	NOUN	_	Number=Sing	9	obl	_	_
+5	pecah	pecah	VERB	_	Voice=Act	9	obl	_	_
 6	nya	nya	DET	_	_	5	det	_	_
 7	perang	perang	NOUN	_	Number=Sing	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	5	punct	_	_
@@ -16025,7 +16025,7 @@
 19	hingga	hingga	ADP	_	_	21	case	_	_
 20	setelah	telah	ADP	_	_	21	case	_	_
 21-22	berakhirnya	_	_	_	_	_	_	_	_
-21	berakhir	akhir	NOUN	_	Number=Sing	4	obl	_	_
+21	berakhir	akhir	VERB	_	Voice=Act	4	obl	_	_
 22	nya	nya	DET	_	_	21	det	_	_
 23	pemerintahan	perintah	NOUN	_	Number=Sing	21	nmod	_	_
 24	komunis	komunis	NOUN	_	Number=Sing	23	nmod	_	_
@@ -18450,7 +18450,7 @@
 6	itu	itu	DET	_	PronType=Dem	4	det	_	_
 7	sebagai	bagai	ADP	_	_	8	case	_	_
 8-9	kurangnya	_	_	_	_	_	_	_	_
-8	kurang	kurang	NOUN	_	Number=Sing	4	nmod	_	_
+8	kurang	kurang	ADJ	_	_	4	nmod	_	_
 9	nya	nya	DET	_	_	8	det	_	_
 10	perencanaan	rencana	NOUN	_	Number=Sing	8	nmod	_	_
 11	terperinci	perinci	VERB	_	Voice=Pass	10	acl	_	SpaceAfter=No
@@ -20049,7 +20049,7 @@
 6	tahu	tahu	VERB	_	Voice=Act	5	compound	_	_
 7	selama	lama	ADP	_	_	8	case	_	_
 8-9	berlangsungnya	_	_	_	_	_	_	_	_
-8	berlangsung	langsung	NOUN	_	Number=Sing	5	obl	_	_
+8	berlangsung	langsung	VERB	_	Voice=Act	5	obl	_	_
 9	nya	nya	DET	_	_	8	det	_	_
 10	pertemuan	temu	NOUN	_	Number=Sing	8	nmod	_	_
 11	yang	yang	PRON	_	PronType=Rel	12	nsubj	_	_
@@ -22027,7 +22027,7 @@
 13	diikuti	ikut	VERB	_	Voice=Pass	7	advcl	_	_
 14	oleh	oleh	ADP	_	_	15	case	_	_
 15-16	jatuhnya	_	_	_	_	_	_	_	_
-15	jatuh	jatuh	NOUN	_	Number=Sing	13	obl	_	_
+15	jatuh	jatuh	VERB	_	Voice=Act	13	obl	_	_
 16	nya	nya	DET	_	_	15	det	_	_
 17	peradaban	adab	NOUN	_	Number=Sing	15	nmod	_	_
 18	Mycenaean	Mycenaean	PROPN	_	_	17	nmod	_	SpaceAfter=No
@@ -22480,7 +22480,7 @@
 2	itu	itu	PRON	_	PronType=Dem	11	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4-5	terjadinya	_	_	_	_	_	_	_	_
-4	terjadi	jadi	NOUN	_	Number=Sing	11	nsubj:pass	_	_
+4	terjadi	jadi	VERB	_	Voice=Pass	11	nsubj:pass	_	_
 5	nya	nya	DET	_	_	4	det	_	_
 6	badai	badai	NOUN	_	Number=Sing	4	nmod	_	_
 7	di	di	ADP	_	_	8	case	_	_
@@ -22808,7 +22808,7 @@
 13	,	,	PUNCT	_	_	15	punct	_	_
 14	setelah	telah	ADP	_	_	15	case	_	_
 15-16	terjadinya	_	_	_	_	_	_	_	_
-15	terjadi	jadi	NOUN	_	Number=Sing	11	obl	_	_
+15	terjadi	jadi	VERB	_	Voice=Pass	11	obl	_	_
 16	nya	nya	DET	_	_	15	det	_	_
 17	Revolusi	revolusi	NOUN	_	Number=Sing	15	nmod	_	_
 18	Prancis	Prancis	PROPN	_	_	17	nmod	_	SpaceAfter=No
@@ -23304,7 +23304,7 @@
 # text = Ambruknya dan intervensi puluhan bank mengakibatkan pelarian modal, membuat banyak usaha menjadi bangkrut.
 # text_en = The collapse of and intervention in dozens of banks lead to a flight of capital, causing businesses to go bankrupt.
 1-2	Ambruknya	_	_	_	_	_	_	_	_
-1	Ambruk	ambruk	NOUN	_	Number=Sing	7	nsubj	_	_
+1	Ambruk	ambruk	VERB	_	Voice=Act	7	nsubj	_	_
 2	nya	nya	DET	_	_	1	det	_	_
 3	dan	dan	CCONJ	_	_	4	cc	_	_
 4	intervensi	intervensi	NOUN	_	Number=Sing	1	conj	_	_
