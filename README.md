@@ -12,9 +12,6 @@ Last update: September 25, 2020
 * revising compound word annotations (UPOS and deprel)
 * revising word segmentation for words ended with clitic _-nya_, especially for predicate nominalisation cases
 * revising annotations of multiword token, especially for words ended with clitic  _-nya_ or particles  _lah/kah/pun_
-* rename nmod:npmod to nmod
-* rename obl:mod to obl
-* rename some nmod:poss to det:poss for words with UPOS DET.
 
 ### Contributors: 
 * Designing Indonesian annotation guidelines: Ika Alfina, Daniel Zeman, and Arawinda Dinakaramani
