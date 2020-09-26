@@ -3177,8 +3177,8 @@
 # sent_id = n01051006
 # text = Sakrokoksigeal teratoma adalah tumor yang berkembang sebelum lahir dan tumbuh dari tulang ekor bayi.
 # text_en = A sacrococcygeal teratoma is a tumour that develops before birth and grows from a baby's tailbone.
-1	Sakrokoksigeal	sakrokoksigeal	X	_	Number=Sing	4	nsubj	_	_
-2	teratoma	teratoma	X	_	Number=Sing	1	flat:foreign	_	_
+1	Sakrokoksigeal	sakrokoksigeal	NOUN	_	Number=Sing	4	nsubj	_	_
+2	teratoma	teratoma	NOUN	_	Number=Sing	1	nmod	_	_
 3	adalah	adalah	AUX	_	_	4	cop	_	_
 4	tumor	tumor	NOUN	_	Number=Sing	0	root	_	_
 5	yang	yang	PRON	_	PronType=Rel	6	nsubj	_	_
@@ -3868,7 +3868,7 @@
 9	itu	itu	DET	_	PronType=Dem	8	det	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	5	punct	_	_
 11	menambahkan	tambah	VERB	_	Voice=Act	0	root	_	_
-12	suatu	suatu	DET	_	PronType=Ind	13	det	_	_
+12	suatu	suatu	DET	_	Number=Sing|PronType=Ind	13	det	_	_
 13	sistem	sistem	NOUN	_	Number=Sing	11	obj	_	_
 14	saraf	saraf	NOUN	_	Number=Sing	13	nmod	_	_
 15	yang	yang	PRON	_	PronType=Rel	16	nsubj:pass	_	_
@@ -4586,7 +4586,7 @@
 13	yang	yang	PRON	_	PronType=Rel	15	nsubj	_	_
 14	sudah	sudah	AUX	_	_	15	aux	_	_
 15	ada	ada	VERB	_	Voice=Act	11	advcl	_	_
-16	sekarang	sekarang	ADV	_	PronType=Dem	15	advmod	_	SpaceAfter=No
+16	sekarang	sekarang	ADV	_	_	15	advmod	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = n01076017
@@ -4850,7 +4850,7 @@
 14	mungkin	mungkin	AUX	_	_	16	aux	_	_
 15	dapat	dapat	AUX	_	_	16	aux	_	_
 16	dikelola	kelola	VERB	_	Voice=Pass	23	advcl	_	_
-17	sekarang	sekarang	ADV	_	PronType=Dem	16	advmod	_	SpaceAfter=No
+17	sekarang	sekarang	ADV	_	_	16	advmod	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	16	punct	_	_
 19	perubahan	ubah	NOUN	_	Number=Sing	23	nsubj	_	_
 20	keadaan	ada	NOUN	_	Number=Sing	19	nmod	_	_
@@ -6121,7 +6121,7 @@
 # text = Tapi sekarang semuanya di luar keteraturan dan tampaknya ia selalu mencari jawaban.
 # text_en = But right now everything is out of kilter and he seems to be seeking answers all the time.
 1	Tapi	tetapi	CCONJ	_	_	7	cc	_	_
-2	sekarang	sekarang	ADV	_	PronType=Dem	7	advmod	_	_
+2	sekarang	sekarang	ADV	_	_	7	advmod	_	_
 3-4	semuanya	_	_	_	_	_	_	_	_
 3	semua	semua	DET	_	PronType=Tot	4	det	_	_
 4	nya	nya	PRON	_	Number=Sing	7	nsubj	_	_
@@ -6672,7 +6672,7 @@
 1	Mengingatkan	ingat	VERB	_	Voice=Act	15	advcl	_	_
 2	bahwa	bahwa	SCONJ	_	_	6	mark	_	_
 3	NHS	NHS	PROPN	_	Abbr=Yes	6	nsubj	_	_
-4	sekarang	sekarang	ADV	_	PronType=Dem	6	advmod	_	_
+4	sekarang	sekarang	ADV	_	_	6	advmod	_	_
 5	ini	ini	DET	_	PronType=Dem	4	det	_	_
 6	berada	ada	VERB	_	Voice=Act	1	ccomp	_	_
 7	di	di	ADP	_	_	10	case	_	_
@@ -7310,7 +7310,7 @@
 4	,	,	PUNCT	_	_	2	punct	_	_
 5	Jutting	Jutting	PROPN	_	_	11	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
-7	sekarang	sekarang	ADV	_	PronType=Dem	9	advmod	_	_
+7	sekarang	sekarang	ADV	_	_	9	advmod	_	_
 8	31	31	NUM	_	NumType=Card	9	nummod	_	_
 9	tahun	tahun	NOUN	_	Number=Sing	5	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
@@ -8263,7 +8263,7 @@
 12	di	di	ADP	_	_	13	case	_	_
 13	dunia	dunia	NOUN	_	Number=Sing	10	nmod	_	_
 14	adalah	adalah	AUX	_	_	16	cop	_	_
-15	suatu	suatu	DET	_	PronType=Ind	16	det	_	_
+15	suatu	suatu	DET	_	Number=Sing|PronType=Ind	16	det	_	_
 16	prestasi	prestasi	NOUN	_	Number=Sing	4	parataxis	_	_
 17	yang	yang	PRON	_	PronType=Rel	19	nsubj	_	_
 18	luar	luar	NOUN	_	Number=Sing	19	compound	_	_
@@ -18568,7 +18568,7 @@
 # text = Dan sekarang dia adalah juara dunia.
 # text_en = And now he is also world champion.
 1	Dan	dan	CCONJ	_	_	5	cc	_	_
-2	sekarang	sekarang	ADV	_	PronType=Dem	5	advmod	_	_
+2	sekarang	sekarang	ADV	_	_	5	advmod	_	_
 3	dia	dia	PRON	_	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 4	adalah	adalah	AUX	_	_	5	cop	_	_
 5	juara	juara	NOUN	_	Number=Sing	0	root	_	_
@@ -18626,7 +18626,7 @@
 # sent_id = n02046037
 # text = Sekarang cuma tidak jelas, di dalam yang mana.
 # text_en = It is now only unclear, in which one.
-1	Sekarang	sekarang	ADV	_	PronType=Dem	4	advmod	_	_
+1	Sekarang	sekarang	ADV	_	_	4	advmod	_	_
 2	cuma	cuma	ADV	_	_	4	advmod	_	_
 3	tidak	tidak	PART	_	Polarity=Neg	4	advmod	_	_
 4	jelas	jelas	ADJ	_	_	0	root	_	SpaceAfter=No
@@ -19866,7 +19866,7 @@
 # sent_id = n04006010
 # text = Suatu level yang dalam kedua kasus ini berada di bagian teratas UE.
 # text_en = A level that in both cases is at the top of the EU.
-1	Suatu	suatu	DET	_	PronType=Ind	2	det	_	_
+1	Suatu	suatu	DET	_	Number=Sing|PronType=Ind	2	det	_	_
 2	level	level	NOUN	_	Number=Sing	0	root	_	_
 3	yang	yang	PRON	_	PronType=Rel	8	nsubj	_	_
 4	dalam	dalam	ADP	_	_	6	case	_	_
@@ -20392,7 +20392,7 @@
 9	Sekretaris	sekretaris	NOUN	_	Number=Sing	8	obl	_	_
 10	Jenderal	jenderal	NOUN	_	Number=Sing	9	nmod	_	_
 11	partai	partai	NOUN	_	Number=Sing	9	nmod	_	_
-12	sekarang	sekarang	ADV	_	PronType=Dem	8	advmod	_	SpaceAfter=No
+12	sekarang	sekarang	ADV	_	_	8	advmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = n05003010
@@ -23042,7 +23042,7 @@
 10	sebagai	bagai	ADP	_	_	11	case	_	_
 11	Metti	Metti	PROPN	_	_	5	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	_
-13	suatu	suatu	DET	_	PronType=Ind	14	det	_	_
+13	suatu	suatu	DET	_	Number=Sing|PronType=Ind	14	det	_	_
 14	malam	malam	NOUN	_	Number=Sing	2	obl:tmod	_	_
 15	saat	saat	ADP	_	_	16	case	_	_
 16	makan	makan	NOUN	_	Number=Sing	14	nmod	_	_
