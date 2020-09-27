@@ -10,6 +10,8 @@ Last update: September 27, 2020
 * adding lemma
 * adding features (13 features, 25 feature tags)
 * revising compound word annotations (UPOS and deprel)
+  * removed compound:prt
+  * used compound:v, compound:a, compound:n  again
 * revising word segmentation for words ended with clitic _-nya_, especially for predicate nominalisation cases
 * revising annotations of multiword token, especially for words ended with clitic  _-nya_ or particles  _lah/kah/pun_
 
