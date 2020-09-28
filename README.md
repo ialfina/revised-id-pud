@@ -14,9 +14,9 @@ Last update: September 28, 2020
   * UPOS correction for compound words
   * used _compound:v, compound:a, compound:n_  again
 * revising word segmentation for words ended with clitic _-nya_, especially for predicate nominalisation cases
-* revising annotations of multiword token, especially for words ended with clitic  _-nya_ or particles  _lah/kah/pun_, including revising the annotation for _**SpaceAfeter=No**_
+* revising annotations of multiword token, especially for words ended with clitic  _-nya_ or particles  _lah/kah/pun_, including revising the annotation for _**SpaceAfter=No**_
 * changed the UPOS of personal pronouns for possessiveness from DET to PRON
-* nmod:npmod used only for locative nouns, for other cases nmod is used.
+* _nmod:npmod_ used only for locative nouns, for other cases nmod is used.
 * renamed _flat:range_ to just _flat_.
 
 ### Contributors: 
