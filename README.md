@@ -4,16 +4,18 @@
 We proposed revisions to [UD Indonesian PUD Treebank](https://github.com/UniversalDependencies/UD_Indonesian-PUD) provided by Universal Dependencies (UD) so that it conforms to Indonesian grammar.
 
 ## Revision 2.0
-Last update: September 27, 2020
+Last update: September 28, 2020
 
 ### Change log:
 * adding lemma
 * adding features (13 features, 25 feature tags)
-* revising compound word annotations (UPOS and deprel)
+* revising compound word annotations
   * removed compound:prt
+  * UPOS correction for compound words
   * used compound:v, compound:a, compound:n  again
 * revising word segmentation for words ended with clitic _-nya_, especially for predicate nominalisation cases
 * revising annotations of multiword token, especially for words ended with clitic  _-nya_ or particles  _lah/kah/pun_
+* nmod:npmod used only for locative nouns, for other cases nmod is used.
 
 ### Contributors: 
 * Designing Indonesian annotation guidelines: Ika Alfina, Daniel Zeman, and Arawinda Dinakaramani
