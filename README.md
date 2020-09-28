@@ -10,12 +10,14 @@ Last update: September 28, 2020
 * adding lemma
 * adding features (13 features, 25 feature tags)
 * revising compound word annotations
-  * removed compound:prt
+  * removed _compound:prt_
   * UPOS correction for compound words
-  * used compound:v, compound:a, compound:n  again
+  * used _compound:v, compound:a, compound:n_  again
 * revising word segmentation for words ended with clitic _-nya_, especially for predicate nominalisation cases
-* revising annotations of multiword token, especially for words ended with clitic  _-nya_ or particles  _lah/kah/pun_
+* revising annotations of multiword token, especially for words ended with clitic  _-nya_ or particles  _lah/kah/pun_, including revising the annotation for _**SpaceAfeter=No**_
+* changed the UPOS of personal pronouns for possessiveness from DET to PRON
 * nmod:npmod used only for locative nouns, for other cases nmod is used.
+* renamed _flat:range_ to just _flat_.
 
 ### Contributors: 
 * Designing Indonesian annotation guidelines: Ika Alfina, Daniel Zeman, and Arawinda Dinakaramani
