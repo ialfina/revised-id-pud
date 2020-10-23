@@ -30,13 +30,13 @@ Last update: October 27th, 2020
 The short annotation guidelines for this revision can be found on [UD website](https://universaldependencies.org/id/index.html).
 
 ## Revision 1.0
-Last update: August, 2019
+Last update: August 17th, 2019
 
 ### Change log:
-* revising tokenization (major revision, especially reduplicated words)
-* revising UPOS (major revision)
-* propose changes to language specific dependency relation for Indonesian
-* revising syntactic annotation (major revision)
+* revised tokenization (major revision, especially reduplicated words)
+* revised UPOS (major revision)
+* proposed changes to language specific dependency relation for Indonesian
+* revised syntactic annotation (major revision)
 
 ### Contributors: 
 * Ika Alfina 
