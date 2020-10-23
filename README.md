@@ -8,16 +8,17 @@ Last update: October 27th, 2020
 
 ### Change log:
 * adding lemma
-* adding features (13 features, 26 feature tags)
+* adding features (14 features, 27 feature tags)
 * revising MWE words annotation
-* removed _compound:prt_
-* UPOS correction for MWE words
+  * removed _compound:prt_
+  * UPOS correction for MWE words
 * revising word segmentation for words ended with clitic _-nya_, especially for predicate nominalisation cases
 * revising annotations of multiword token, especially for words ended with clitic  _-nya_ or particles  _lah/kah/pun_, including revising the annotation for _**SpaceAfter=No**_
 * changed the UPOS of personal pronouns for possessiveness from DET to PRON
-* _nmod:npmod_ used only for locative nouns, for other cases nmod is used.
-* renamed _flat:range_ to just _flat_.
-* renamed some flat tokens to flat:name (for PROPN-PROPN pairs)
+* added and removed subtypes:
+  * _nmod:lmod_ used for locative nouns
+  * renamed _flat:range_ to just _flat_.
+  * renamed some flat tokens to flat:name (for PROPN-PROPN pairs)
 
 ### Contributors: 
 * Designing Indonesian annotation guidelines: Ika Alfina, Daniel Zeman, and Arawinda Dinakaramani
