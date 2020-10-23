@@ -7,14 +7,16 @@ We proposed revisions to [UD Indonesian PUD Treebank](https://github.com/Univers
 Last update: October 27th, 2020
 
 ### Change log:
-* adding lemma
-* adding features (14 features, 27 feature tags)
-* revising MWE words annotation
+* added lemma
+* added features (14 features, 27 feature tags)
+* revised MWE words annotation
   * removed _compound:prt_
   * UPOS correction for MWE words
-* revising word segmentation for words ended with clitic _-nya_, especially for predicate nominalisation cases
-* revising annotations of multiword token, especially for words ended with clitic  _-nya_ or particles  _lah/kah/pun_, including revising the annotation for _**SpaceAfter=No**_
-* changed the UPOS of personal pronouns for possessiveness from DET to PRON
+* revised word segmentation
+  * for words ended with clitic _-nya_, especially for predicate nominalisation cases
+* revised annotations of multiword token (MWT), especially for words ended with clitic  _-nya_ or particles  _lah/kah/tah/pun_, including revising the annotation for _**SpaceAfter=No**_
+* changed the UPOS:
+  * of personal pronouns for possessiveness from DET to PRON
 * added and removed subtypes:
   * _nmod:lmod_ used for locative nouns
   * renamed _flat:range_ to just _flat_.
