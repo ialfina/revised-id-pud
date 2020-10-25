@@ -4,7 +4,7 @@
 We proposed revisions to [UD Indonesian PUD Treebank](https://github.com/UniversalDependencies/UD_Indonesian-PUD) provided by Universal Dependencies (UD) so that it conforms to Indonesian grammar.
 
 ## Revision 2.0
-Last update: October 27th, 2020
+Last updated: October 27th, 2020
 
 ### Change log:
 * added lemma
@@ -30,7 +30,7 @@ Last update: October 27th, 2020
 The short annotation guidelines for this revision can be found on [UD website](https://universaldependencies.org/id/index.html).
 
 ## Revision 1.0
-Last update: August 17th, 2019
+Last updated: August 17th, 2019
 
 ### Change log:
 * revised tokenization (major revision, especially reduplicated words)
