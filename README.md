@@ -3,11 +3,11 @@
 
 We proposed revisions to [UD Indonesian PUD Treebank](https://github.com/UniversalDependencies/UD_Indonesian-PUD) provided by Universal Dependencies (UD) so that it conforms to Indonesian grammar.
 
-Note: We donated this dataset to UD since 2020. Hence, the newest version of the dataset can be found in [UD website](https://github.com/UniversalDependencies/UD_Indonesian-PUD/tree/master)
+**Note: We donated this dataset to UD since 2020. Hence, the newest version of the dataset can be found in [UD website](https://github.com/UniversalDependencies/UD_Indonesian-PUD/tree/master)**
 
 # Documentation
 
-The short annotation guidelines for this revision can be found on [UD website](https://universaldependencies.org/id/index.html).
+The short annotation guidelines for this revision can be found on the [UD website](https://universaldependencies.org/id/index.html).
 
 # Changelog
 * 2020-10-27 v2.0
@@ -47,4 +47,9 @@ The short annotation guidelines for this revision can be found on [UD website](h
 * Ika Alfina, Daniel Zeman, Arawinda Dinakaramani, Indra Budi, and Heru Suhartanto. "**Selecting the UD v2 Morphological Features for Indonesian Dependency Treebank**". In the Proceeding of the 2020 International Conference of Asian Language Processing (IALP)  in Kuala Lumpur, Malaysia, 4-6 Desember 2020. (_accepted_)
 * Ika Alfina, Arawinda Dinakaramani, Mohamad Ivan Fanany, and Heru Suhartanto. ["**A Gold Standard Dependency Treebank for Indonesian**"](https://waseda.repo.nii.ac.jp/?action=repository_action_common_download&item_id=48059&item_no=1&attribute_id=101&file_no=1). In the Proceeding of 33rd Pacific Asia Conference on Language, Information and Computation (PACLIC) 2019 in Hakodate, Japan, 13-15 September 2019. 
 
-If you use our revised treebank, please cite those publications.
+## Licence
+You can use this dataset for free. You don't need our permission to use it. Please cite our paper if your work uses our data in your publication.
+Please note that you are not allowed to create a copy of this dataset and share it publicly in your own repository without our permission.
+
+## Contact
+ika.alfina [at] cs.ui.ac.id
