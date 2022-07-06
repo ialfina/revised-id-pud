@@ -3,7 +3,7 @@
 
 We proposed revisions to [UD Indonesian PUD Treebank](https://github.com/UniversalDependencies/UD_Indonesian-PUD) provided by Universal Dependencies (UD) so that it conforms to Indonesian grammar.
 
-**Note: We donated this dataset to UD in 2020 and will maintain the dataset there. Hence, the newest version of the dataset can be found on the [UD website](https://github.com/UniversalDependencies/UD_Indonesian-PUD/tree/master)**.
+**Note: We donated this dataset to UD in 2020 and will maintain the dataset on the [UD repository](https://github.com/UniversalDependencies/UD_Indonesian-PUD/tree/master). Hence, the newest version of the dataset can be found there.
 
 # Documentation
 
